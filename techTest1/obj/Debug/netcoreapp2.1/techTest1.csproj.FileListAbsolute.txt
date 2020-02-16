@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\techTest1\techTest1\bin\Debug\netcoreapp2.1\techTest1.dll
+C:\Users\User\source\repos\techTest1\techTest1\bin\Debug\netcoreapp2.1\techTest1.deps.json
+C:\Users\User\source\repos\techTest1\techTest1\bin\Debug\netcoreapp2.1\techTest1.runtimeconfig.json
+C:\Users\User\source\repos\techTest1\techTest1\bin\Debug\netcoreapp2.1\techTest1.runtimeconfig.dev.json
+C:\Users\User\source\repos\techTest1\techTest1\obj\Debug\netcoreapp2.1\techTest1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\techTest1\techTest1\obj\Debug\netcoreapp2.1\techTest1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\techTest1\techTest1\obj\Debug\netcoreapp2.1\techTest1.AssemblyInfo.cs
+C:\Users\User\source\repos\techTest1\techTest1\obj\Debug\netcoreapp2.1\techTest1.dll
+C:\Users\User\source\repos\techTest1\techTest1\obj\Debug\netcoreapp2.1\techTest1.pdb
+C:\Users\User\source\repos\techTest1\techTest1\bin\Debug\netcoreapp2.1\techTest1.pdb
+C:\Users\User\source\repos\techTest1\techTest1\obj\Debug\netcoreapp2.1\techTest1.csprojAssemblyReference.cache
